@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26206.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyThreeSearch", "FamilyThreeSearch\FamilyThreeSearch.csproj", "{964223F6-C87F-4590-8E75-9A9F24F051D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyTreeSearch.Data", "FamilyTreeSearch.Data\FamilyTreeSearch.Data.csproj", "{2CCD1906-6B68-43E5-A740-896DED6C51A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyTreeSearchTesting", "FamilyTreeSearchTesting\FamilyTreeSearchTesting.csproj", "{B4DA9DCA-A29E-4C6A-BC48-650AB327AC96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyTreeSearch.Model", "FamilyTreeSearch.Model\FamilyTreeSearch.Model.csproj", "{49AE3676-4696-43CE-8E82-C8F3890D23FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyTreeSearch.Interfaces", "FamilyTreeSearch.Interfaces\FamilyTreeSearch.Interfaces.csproj", "{2E09D184-3B69-4C33-93E4-A396D6775E4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{964223F6-C87F-4590-8E75-9A9F24F051D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964223F6-C87F-4590-8E75-9A9F24F051D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964223F6-C87F-4590-8E75-9A9F24F051D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964223F6-C87F-4590-8E75-9A9F24F051D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CCD1906-6B68-43E5-A740-896DED6C51A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCD1906-6B68-43E5-A740-896DED6C51A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCD1906-6B68-43E5-A740-896DED6C51A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCD1906-6B68-43E5-A740-896DED6C51A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4DA9DCA-A29E-4C6A-BC48-650AB327AC96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4DA9DCA-A29E-4C6A-BC48-650AB327AC96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4DA9DCA-A29E-4C6A-BC48-650AB327AC96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4DA9DCA-A29E-4C6A-BC48-650AB327AC96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49AE3676-4696-43CE-8E82-C8F3890D23FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49AE3676-4696-43CE-8E82-C8F3890D23FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49AE3676-4696-43CE-8E82-C8F3890D23FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49AE3676-4696-43CE-8E82-C8F3890D23FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E09D184-3B69-4C33-93E4-A396D6775E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E09D184-3B69-4C33-93E4-A396D6775E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E09D184-3B69-4C33-93E4-A396D6775E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E09D184-3B69-4C33-93E4-A396D6775E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

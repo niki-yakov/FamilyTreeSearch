@@ -1,0 +1,17 @@
+D:\temp\FamilyThreeSearch\FamilyTreeSearch.Data\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\temp\FamilyThreeSearch\FamilyTreeSearch.Data\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\temp\FamilyThreeSearch\FamilyTreeSearch.Data\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\temp\FamilyThreeSearch\FamilyTreeSearch.Data\bin\Debug\FamilyTreeSearch.Data.dll.config
+D:\temp\FamilyThreeSearch\FamilyTreeSearch.Data\bin\Debug\FamilyTreeSearch.Data.dll
+D:\temp\FamilyThreeSearch\FamilyTreeSearch.Data\bin\Debug\FamilyTreeSearch.Data.pdb
+D:\temp\FamilyThreeSearch\FamilyTreeSearch.Data\bin\Debug\EntityFramework.dll
+D:\temp\FamilyThreeSearch\FamilyTreeSearch.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\temp\FamilyThreeSearch\FamilyTreeSearch.Data\bin\Debug\FamilyTreeSearch.Interfaces.dll
+D:\temp\FamilyThreeSearch\FamilyTreeSearch.Data\bin\Debug\FamilyTreeSearch.Model.dll
+D:\temp\FamilyThreeSearch\FamilyTreeSearch.Data\bin\Debug\FamilyTreeSearch.Interfaces.pdb
+D:\temp\FamilyThreeSearch\FamilyTreeSearch.Data\bin\Debug\FamilyTreeSearch.Model.pdb
+D:\temp\FamilyThreeSearch\FamilyTreeSearch.Data\bin\Debug\EntityFramework.xml
+D:\temp\FamilyThreeSearch\FamilyTreeSearch.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\temp\FamilyThreeSearch\FamilyTreeSearch.Data\obj\Debug\FamilyTreeSearch.Data.csprojResolveAssemblyReference.cache
+D:\temp\FamilyThreeSearch\FamilyTreeSearch.Data\obj\Debug\FamilyTreeSearch.Data.dll
+D:\temp\FamilyThreeSearch\FamilyTreeSearch.Data\obj\Debug\FamilyTreeSearch.Data.pdb
